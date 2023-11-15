@@ -17,5 +17,5 @@ Follow these steps to run the code :
 
 Example run >>
 
-gcc Dsa_Project.c
+gcc Dsa_Project.c \n
 ./Dsa_Project.exe
